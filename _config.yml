@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Chen-Ning Tai"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar (TODO)"
-  location         : "Earth"
+  bio              : "Research Assistant in Biomedical Transfer Research Center (BioTReC), Academia Sinica, Taiwan" # Short biography for the left-hand sidebar (TODO)
+  location         : "Taipei, Taiwan"
   employer         : "Academia Sinica"
   uri              : # URL
   email            : "cntai@gate.sinica.edu.tw" 
