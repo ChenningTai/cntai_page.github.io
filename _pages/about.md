@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm currently applying for a Ph.D. program in Germany focused on computational mechanics and robotics.
+I recently graduated with an M.Sc. from the Institute of Applied Mechanics at National Taiwan University, where I worked on an electrochemistry problem involving multiphysics coupling issues by a computational mechanics model implemented in the C language using the Compute Unified Device Architecture (CUDA) platform. With a keen interest in using computer technology to tackle complex engineering challenges, my current projects at the Biomedical Translation Research Center (BioTReC) at Academia Sinica include developing a fully automated phase-contrast microscope and assisting in the construction of a BSL-3 modular/automated system. At the same time, I am also exploring the application of Artificial Intelligence (AI) models for enabling robot arms to handle complex tasks.
 
 A data-driven personal website
 ======
