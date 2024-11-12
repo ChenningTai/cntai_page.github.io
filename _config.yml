@@ -21,7 +21,7 @@ repository               : "https://github.com/ChenningTai/cntai_page.github.io/
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "23-0919-avatar_cntai_small.jpg"
   name             : "Chen-Ning Tai"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant in Biomedical Transfer Research Center (BioTReC), Academia Sinica, Taiwan" # Short biography for the left-hand sidebar (TODO)
