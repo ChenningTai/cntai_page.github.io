@@ -21,7 +21,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: "https://drive.google.com/file/d/13jBVy3tZ17tjX7wGrEPW0pFDsGkxxwJa/view?usp=sharing"
+    url: /files/CV_cntai_v5-5_nm.pdf
     
   - title: "Guide"
     url: /markdown/
