@@ -1,7 +1,7 @@
 ---
 title: "Numerical Investigation of Influence of Transport Properties of Highly Concentrated Electrolytes on Li-Dendrite Growth"
 collection: publications
-category: conferences
+category: posters
 permalink: /publication/2023-IAM_Poster
 excerpt: ''
 date: 2023-05-01
